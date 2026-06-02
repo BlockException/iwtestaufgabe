@@ -1,0 +1,11 @@
+net\iwmedia\report\bukkit\listener\ReportInventoryListener.class
+net\iwmedia\report\bukkit\guice\BukkitModule.class
+net\iwmedia\report\bukkit\listener\ReportRedisSubscriber$1.class
+net\iwmedia\report\bukkit\command\ReportsCommand.class
+net\iwmedia\report\bukkit\ReportBukkitPlugin.class
+net\iwmedia\report\bukkit\service\BukkitReportService$PendingTarget.class
+net\iwmedia\report\bukkit\listener\ReportPlayerJoinListener.class
+net\iwmedia\report\bukkit\service\BukkitReportService.class
+net\iwmedia\report\bukkit\command\ReportCommand.class
+net\iwmedia\report\bukkit\listener\ReportRedisSubscriber.class
+net\iwmedia\report\bukkit\service\BukkitReportService$1.class

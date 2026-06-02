@@ -1,0 +1,6 @@
+net\iwmedia\report\api\dto\ReportDto.class
+net\iwmedia\report\api\model\ReportStatus.class
+net\iwmedia\report\api\service\UuidLookupService.class
+net\iwmedia\report\api\service\ReportPublisher.class
+net\iwmedia\report\api\model\ReportTemplate.class
+net\iwmedia\report\api\service\ReportRepository.class

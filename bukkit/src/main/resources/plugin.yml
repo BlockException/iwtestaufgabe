@@ -1,0 +1,17 @@
+name: IWTestAufgabe
+main: net.iwmedia.report.bukkit.ReportBukkitPlugin
+version: 1.0.0-SNAPSHOT
+authors:
+  - blockexception_
+api-version: 1.21
+commands:
+  report:
+    description: Meldet einen Spieler oder öffnet das Report-Menü.
+    usage: /report [spielername]
+  reports:
+    description: Öffnet die Team-Reportverwaltung.
+    usage: /reports
+permissions:
+  report.admin:
+    description: Erlaubt den Zugriff auf Report-Verwaltung und Benachrichtigungen.
+    default: op

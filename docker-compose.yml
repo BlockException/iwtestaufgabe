@@ -1,0 +1,19 @@
+version: '3.9'
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: report-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb-data:/data/db
+
+  redis:
+    image: redis:7.2
+    container_name: report-redis
+    ports:
+      - "6379:6379"
+    command: ["redis-server", "--save", "60 1"]
+
+volumes:
+  mongodb-data:

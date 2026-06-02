@@ -1,0 +1,6 @@
+name: IWTestAufgabe
+main: net.iwmedia.report.bungee.ReportBungeePlugin
+version: 1.0.0-SNAPSHOT
+authors:
+  - blockexception_
+commands: {}

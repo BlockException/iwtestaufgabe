@@ -1,0 +1,15 @@
+net\iwmedia\report\common\service\TemplateServiceImpl.class
+net\iwmedia\report\common\service\MongoServiceImpl.class
+net\iwmedia\report\common\service\NotificationService.class
+net\iwmedia\report\common\model\NotificationModel.class
+net\iwmedia\report\common\service\DefaultUuidLookupService.class
+net\iwmedia\report\common\service\ReportRepositoryImpl.class
+net\iwmedia\report\common\model\ReportModel.class
+net\iwmedia\report\common\service\MongoService.class
+net\iwmedia\report\common\service\RedisReportPublisher.class
+net\iwmedia\report\common\service\CommonModule.class
+net\iwmedia\report\common\service\NotificationServiceImpl.class
+net\iwmedia\report\common\service\RedisServiceImpl.class
+net\iwmedia\report\common\model\ReportTemplateModel.class
+net\iwmedia\report\common\service\TemplateService.class
+net\iwmedia\report\common\service\RedisService.class
