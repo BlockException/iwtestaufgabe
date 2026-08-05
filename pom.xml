@@ -17,7 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <morphia.version>2.4.14</morphia.version>
         <jedis.version>7.5.3</jedis.version>
-        <guava.version>33.0.0-jre</guava.version>
+        <guava.version>33.6.0-jre</guava.version>
         <guice.version>7.0.0</guice.version>
       
         <lombok.version>1.18.46</lombok.version>
