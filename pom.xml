@@ -19,7 +19,7 @@
         <jedis.version>6.0.0</jedis.version>
         <guava.version>33.0.0-jre</guava.version>
         <guice.version>7.0.0</guice.version>
-        <lombok.version>1.18.38</lombok.version>
+        <lombok.version>1.18.46</lombok.version>
         <paper.api.version>1.21.3-R0.1-SNAPSHOT</paper.api.version>
         <bungee.api.version>1.21-R0.1-SNAPSHOT</bungee.api.version>
         <annotations.version>26.0.2</annotations.version>
