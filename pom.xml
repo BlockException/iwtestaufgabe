@@ -21,7 +21,7 @@
         <guice.version>7.0.0</guice.version>
         <lombok.version>1.18.46</lombok.version>
         <paper.api.version>1.21.3-R0.1-SNAPSHOT</paper.api.version>
-        <bungee.api.version>1.21-R0.1-SNAPSHOT</bungee.api.version>
+        <bungee.api.version>1.21-R0.4</bungee.api.version>
         <annotations.version>26.0.2</annotations.version>
     </properties>
 
