@@ -23,7 +23,7 @@
         <lombok.version>1.18.46</lombok.version>
         <paper.api.version>26.2.build.111-stable</paper.api.version>
         <bungee.api.version>1.21-R0.4</bungee.api.version>
-        <annotations.version>26.0.2</annotations.version>
+        <annotations.version>26.1.0</annotations.version>
     </properties>
 
     <modules>
